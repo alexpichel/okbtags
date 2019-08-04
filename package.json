@@ -43,6 +43,7 @@
     "disqus-react": "^1.0.5",
     "functional-promises": "^1.7.94",
     "gatsby": "^1.9.274",
+    "gatsby-cli": "^2.7.26",
     "gatsby-image": "^1.0.55",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-algolia": "^0.0.4",
