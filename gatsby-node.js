@@ -72,7 +72,7 @@ const createTagPages = (createPage, posts) => {
   const postsByTags = posts.reduce((obj, { node }) => {
     if (node.frontmatter && node.frontmatter.tags) {
       node.frontmatter.tags.forEach(tag => {
-        const tagSlug = (tag);
+        const tagSlug = tag;
         const slug = node.fields && node.fields.slug;
 
         if (!obj[tagSlug]) {
