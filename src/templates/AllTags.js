@@ -31,7 +31,7 @@ const styles = theme => ({
         // theme.navigator.colors.postsListItemLinkHover,
         color: "#dddddd",
         height: "28px",
-        width: "28px",
+        // width: "28px",
         textAlign: "center",
         fontWeight: 900,
         borderRadius: "25%"
