@@ -5,7 +5,6 @@ import TagList from "../TagList";
 import injectSheet from "react-jss";
 import LazyLoad from "react-lazyload";
 import moment from "moment";
-import Header from "../Header";
 
 const styles = theme => ({
   header: {
@@ -104,14 +103,6 @@ const PostHeader = props => {
   const { classes, logo, title, agency, subTitle, category, tags, date } = props;
 
   return (
-    <Header {...props}>
-      <div className={classes.tags}>
-        <TagList tags={tags} />
-      </div>
-    </Header>
-  );
-
-  return (
     <header className={classes.header}>
       <div className={classes.logo}>
         <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
@@ -135,7 +126,9 @@ const PostHeader = props => {
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div>
         <p className={classes.category}>{category}</p>
-        <p className={classes.tags}><TagList tags={tags} /></p>
+        <p className={classes.tags}>
+          <TagList tags={tags} />
+        </p>
       </div>
     </header>
   );
@@ -150,7 +143,7 @@ PostHeader.propTypes = {
   cover: PropTypes.object,
   subTitle: PropTypes.string,
   category: PropTypes.string,
-  tags: PropTypes.array,
+  tags: PropTypes.string,
   date: PropTypes.string.isRequired
 };
 
