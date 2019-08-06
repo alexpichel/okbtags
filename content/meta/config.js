@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Oregon Knowledge Bank - a local public safety resource", // <title>
   shortSiteTitle: "Oregon Knowledge Bank", // <title> ending for posts and pages
   siteDescription: "A local public safety resource.",
-  siteUrl: "https://epic-pike-6369a2.netlify.com",
+  siteUrl: "https://okb.oregon.gov",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
