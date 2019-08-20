@@ -1,5 +1,5 @@
 ---
-title: "Analytical apporaches to studying stops data"
+title: "Analytical approaches to studying stops data"
 date: "2019-08-19"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
