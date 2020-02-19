@@ -72,3 +72,7 @@ Health and wellness isn’t just about exercising and eating right, it is also a
 [National Alliance on Mental Illness (NAMI): Support for Law Enforcement Officers](https://www.nami.org/find-support/law-enforcement-officers)
 
 This section of the NAMI website provides an overview of officer mental health, as well as links to research on officer wellness. In partnership with the DOJ, NAMI also provides a report for leadership titled Preparing for the Unimaginable: A Report on Officer Mental Health.
+
+[The Signs Within: Suicide Prevention Education & Awareness](https://cops.usdoj.gov/RIC/Publications/cops-w0855-pub.pdf)
+
+This publication from the COPS Office and the IACP provides suicide prevention information and debunks common myths about suicide. Additionally, it provides tools for law enforcement supervisors to help recognize stress in employees.
