@@ -2,8 +2,8 @@
 title: "Analytical approaches to studying stops data"
 date: "2019-08-19"
 cover: /assets/research.png
-logo: /assets/agency/cpe-logo.png
-agency: "Criminal Justice Commission & Center for Policing Excellence"
+logo: /assets/agency/research.png
+agency: "Criminal Justice Commission"
 category: "Research"
 tags: [Oregon Research, Race, Traffic Safety, Crime Analysis]
 ---
@@ -23,7 +23,7 @@ This OKB summary is simply an overview of the five analytical techniques include
 
 #### CRITERIA FOR INCLUSION
 
-CJC used three criteria to choose the analytical techniques used in the analysis of Oregon stops data.
+CJC used four criteria to choose the analytical techniques used in the analysis of Oregon stops data.
 1.	Technique must be **evidence-based** and **conform to best practices** for the analysis of stops data.
 2.	Technique must provide finding that are widely **accessible**, falling between robust, complex models and simpler, easy-to-communicate models.
 3.	Technique must use data that are reasonably **easy to obtain and update**. This is measured by ease of obtaining the data, costs associated with data, and frequency with which data need to be updated.
