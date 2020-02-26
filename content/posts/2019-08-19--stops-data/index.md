@@ -2,10 +2,12 @@
 title: "Analytical approaches to studying stops data"
 date: "2019-08-19"
 cover: /assets/research.png
-logo: /assets/agency/research.png
+logo: /assets/research.png
+agencyid: "cjc"
 agency: "Criminal Justice Commission"
 category: "Research"
 tags: [Oregon Research, Race, Traffic Safety, Crime Analysis]
+subTitle: "An overview of the five analytical techniques included in the CJC plan for Oregon stops analysis."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
