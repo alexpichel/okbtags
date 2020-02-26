@@ -5,7 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
 tags: [Retention, Wellness]
-subTitle: ""
+subTitle: "Examples of programs and resources that provide some helpful guidelines for starting a wellness program at public safety agencies."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
