@@ -13,7 +13,7 @@ subTitle: "Policing strategies targeting disorder have a moderate crime reductio
 
 #### COMMUNITY NEED
 
-Policing disorder has long been touted as an effective policing strategy and is now one of the most common policing strategies employed. Specific versions of this strategy vary across departments, from order maintenance to zero tolerance policing to community and problem-oriented strategies addressing recurring problems in a specific community. However, evaluations for the varying applications of disorder policing have led to mixed results and “no clear evidence of effectiveness.” 
+Policing disorder has long been touted as an effective policing strategy and is now one of the most common policing strategies employed. Specific versions of this strategy vary across departments, from order maintenance to zero tolerance policing to community and problem-oriented strategies addressing recurring problems in a specific community. However, evaluations for the varying applications of disorder policing have led to mixed results and “no clear evidence of effectiveness.”
 
 #### RESPONSE
 
@@ -41,7 +41,7 @@ Multiple meta-analysis statistical approaches demonstrated a “modest, but mean
 
 #### MAIN IMPLICATIONS
 
-While further work should be done, this analysis suggests that policing disorder is an effective crime control strategy. The most effective types of disorder tactics are those focused on places and are community-oriented, as opposed to individual-focused aggressive order maintenance strategies. It is important for agencies to engage community stakeholders in assisting with the identification of problems and then maintain those relationships to help address identified issues. 
+While further work should be done, this analysis suggests that policing disorder is an effective crime control strategy. The most effective types of disorder tactics are those focused on places and are community-oriented, as opposed to individual-focused aggressive order maintenance strategies. It is important for agencies to engage community stakeholders in assisting with the identification of problems and then maintain those relationships to help address identified issues.
 
 #### CITATION
 

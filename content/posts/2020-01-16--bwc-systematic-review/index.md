@@ -56,7 +56,7 @@ No clear patterns emerged in research related to BWCs effect on the arrest and c
 
 *Proactivity*
 
-The term “proactivity” included activities such as problem-solving, stop-question-and-frisk, traffic enforcement, community policing and engagement, directed patrol, or use of misdemeanor arrests to reduce disorder. 
+The term “proactivity” included activities such as problem-solving, stop-question-and-frisk, traffic enforcement, community policing and engagement, directed patrol, or use of misdemeanor arrests to reduce disorder.
 
 Studies showed mixed results in whether or not BWCs had a significant impact on officer proactivity.
 
@@ -65,13 +65,15 @@ Considering the very different impacts of and levels of community support for th
 **Impacts of BWCs on Officer Attitude**
 
 Many studies showed that once officers start using BWCs, they feel neutral, if not positive towards them or they become most positive over time. Reasons for this may include:
+
 * Seeing BWCs as a way to protect themselves from complaints
 * Improving the quality and availability of evidence to charge individuals with a crime
 
 Officers’ negative feelings towards BWCs were connected to:
-* technical difficulties 
+
+* technical difficulties
 * the impact on their work or workload
-* the belief the BWC footage could be used against them, making officers more hesitant in their duties. 
+* the belief the BWC footage could be used against them, making officers more hesitant in their duties.
 
 Larger organizational factors may play a role in officer attitudes towards BWCs. Some studies found that the more officers that felt their agency to be organizationally just, the more positive their attitudes about BWCs.
 
@@ -79,7 +81,7 @@ Larger organizational factors may play a role in officer attitudes towards BWCs.
 
 *Compliance*
 
-Research on citizen compliance - measured by assaults on officers, reports of resisting arrest, or officer injuries – provides little support for the idea that BWCs improve it. Six studies showed no significant difference between officers with BWC and those without in assaults on officers and reports of resisting arrest. Three studies showed an increase in assaults. 
+Research on citizen compliance - measured by assaults on officers, reports of resisting arrest, or officer injuries – provides little support for the idea that BWCs improve it. Six studies showed no significant difference between officers with BWC and those without in assaults on officers and reports of resisting arrest. Three studies showed an increase in assaults.
 
 *Willingness to Call & Cooperate*
 
@@ -117,7 +119,6 @@ BWCs may increase detection and clearance of criminal investigations. More speci
 * The amount of time that it takes agencies to investigate a complaint decreased.
 * Officer burnout may be higher for those with BWCs and there may be a negative effect on officers’ perceptions of how much their agency supports them.
 * BWCs may not significantly impact accountability and organizational traits. This may be because already existing organizational traits will be what shapes BWC policies and practices.
-
 
 #### MAIN IMPLICATIONS
 

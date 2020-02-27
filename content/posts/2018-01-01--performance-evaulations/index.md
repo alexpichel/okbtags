@@ -103,8 +103,8 @@ The determined that the following factors increase employees’ sense of procedu
 
 - *Employees must be involved in the performance appraisal standard and goal setting.* This allows them to share power with supervisors and feel that all involved see collaboration as an important part of the process. For employees, this also fosters a sense of ownership in the overall appraisal process and helps them understand how their work is related the overall goals of the organization.
 
- - Related to the above points, *employees must feel empowered to voice concerns and opinions about the process.* Employees' sense of justice increases as they able to offer more input to be considered.
- 
+- Related to the above points, *employees must feel empowered to voice concerns and opinions about the process.* Employees' sense of justice increases as they able to offer more input to be considered.
+
 Some points that could significantly affect the level of acceptance in a law enforcement setting and should be taken into consideration:
 
 *Union Membership*: Members of unions had a more negative view of the distributional justice of performance appraisals, since many members prefer to be rewarded based on seniority versus merit. However, members have a higher acceptance of the procedural justice of appraisals. The authors posit that they could be because of the protections that union membership may afford them in the appraisal process.

@@ -25,6 +25,7 @@ Drug courts are designed to guide offenders who are struggling with substance ab
 #### PRIMARY RESEARCH QUESTION(S)
 
 The study was organized into four parts:
+
 1. a process evaluation of each of the four participating sites;
 2. an interview study designed to obtain participant perceptions of their court experiences through interviews with treatment and control group members;
 3. an outcome evaluation based on data from administrative court records, and
@@ -71,4 +72,5 @@ The average total program cost per participant was $22,917 (the average cost ran
 Many of the participants in the study were prison-eligible under Measure 57 and this evaluation provides support for drug courts as an effective alternative to prison. The Measure 57 Intensive Drug Court Program is one strategy within the continuum of services and programs for all offenders involved in the criminal justice system. This program is targeted toward a specific population and a specific point of involvement within the criminal justice system. Other types of offenders, including low risk and/or low need, and those at different points of involvement within the criminal justice system, may be better served with other types of services and programs.
 
 #### CITATION
+
 Prins, C., Officer, K., Einspruch, E. L., Jarvis, K. L., Waller, M. S., Mackin, J. R., & Carey, S. M. (March 2015) [Randomized Controlled Trial of Measure 57 Intensive Drug Court for Medium- to High-Risk Property Offenders: Process, Interviews, Costs, And Outcomes](http://npcresearch.com/wp-content/uploads/CJC_and_NPC_M57_drug_court_eval_March_20_2015.pdf). Portland, OR: NPC Research & Oregon Criminal Justice Commission

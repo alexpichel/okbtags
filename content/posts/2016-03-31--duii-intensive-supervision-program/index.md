@@ -57,7 +57,7 @@ Through the end of 2014, 2,001 defendants entered DISP. Of those participants, 1
 * New DUII conviction five years after probation ends: 11.6%
 
 See more details here:
-http://courts.oregon.gov/Multnomah/docs/CriminalActions/ProblemSolvingCourts/11_DISP_RecidivismData.pdf
+<http://courts.oregon.gov/Multnomah/docs/CriminalActions/ProblemSolvingCourts/11_DISP_RecidivismData.pdf>
 
 Based on a study completed in 2006, the National Institute of Justice has deemed this a “promising” program. The study found that the recidivism rate among DISP participants was significantly lower than for a comparison group (who did not participate in DISP). DISP participants had a 9.8 percent recidivism rate, while the comparison group had an 18.3 percent recidivism rate. DISP participation is associated with a 48 percent reduction in re-arrests for impaired driving.
 

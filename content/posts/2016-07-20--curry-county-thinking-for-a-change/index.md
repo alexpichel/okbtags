@@ -30,7 +30,7 @@ The Curry County Thinking for a Change Program revolves around the cognitive beh
 Thinking for a Change consists of 25 lessons, each of them one to two hours long. Based on assessment, additional services may be provided, including the following:
 
 * substance use disorder treatment
-*  mental health care
+* mental health care
 * psycatric evaluation
 * medication management
 * case management

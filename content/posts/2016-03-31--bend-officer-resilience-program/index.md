@@ -27,12 +27,12 @@ Citizens expect a healthy officer to arrive in their time of crisis. Many office
 
 Bend Police Department has adopted a multi-pronged approach to improve officer resilience.
 
-   - Coached team-level fitness classes for on-duty officers working graveyard shifts are conducted with the goal of improving duty readiness and camaraderie.
-   - Professional yoga instructors teach injury-prevention yoga to mid-shift officers during their shift.
-   - A contracted psychologist is available 10 hours per week for the purpose of confidential officer support and education.
-   - Spouse and family support is funded annually by the department. Family events in the past year have included a barbecue, a snow-park day, a spouse appreciation tea, a firearm safety/range day and child/infant CPR.
-   - Financial literacy was recognized through an officer survey as a need in the department. 90% of officers surveyed hoped for more financial training. A local financial advisor was used to deliver a four part training on budgeting, investments and retirement.
-   - The department is conducting mindfulness training for officers. Guided mindfulness sessions are conducted at the end of day shifts with patrol teams. The department also hosts an annual three-day resilience immersion retreat that allows personnel to develop skills in awareness and mindfulness.
+- Coached team-level fitness classes for on-duty officers working graveyard shifts are conducted with the goal of improving duty readiness and camaraderie.
+- Professional yoga instructors teach injury-prevention yoga to mid-shift officers during their shift.
+- A contracted psychologist is available 10 hours per week for the purpose of confidential officer support and education.
+- Spouse and family support is funded annually by the department. Family events in the past year have included a barbecue, a snow-park day, a spouse appreciation tea, a firearm safety/range day and child/infant CPR.
+- Financial literacy was recognized through an officer survey as a need in the department. 90% of officers surveyed hoped for more financial training. A local financial advisor was used to deliver a four part training on budgeting, investments and retirement.
+- The department is conducting mindfulness training for officers. Guided mindfulness sessions are conducted at the end of day shifts with patrol teams. The department also hosts an annual three-day resilience immersion retreat that allows personnel to develop skills in awareness and mindfulness.
 
 #### BASED ON RESEARCH
 

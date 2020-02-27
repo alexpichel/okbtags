@@ -31,8 +31,8 @@ Those offenders who are unemployed or owe restitution are referred to a case aid
 
 #### BASED ON RESEARCH
 
-   - Use of validated risk-assessment tools
-   - Use of cognitive behavioral interventions based on risk-need-responsivity principles
+- Use of validated risk-assessment tools
+- Use of cognitive behavioral interventions based on risk-need-responsivity principles
 
 #### FUNDING
 
@@ -44,11 +44,11 @@ This program is funded by a $414,410 grant through the state’s 2015-17 Justice
 
 Proposed outcomes include:
 
-   - Increase in offenders with downward departure sentences who successfully complete probation
-   - Increase in medium-/high-risk offenders who successfully complete probation
-   - Increase in medium-/high-risk offenders who are living in stable housing
-   - Increase in medium-/high-risk offenders who are employed
-   - Increase in medium-/high-risk offenders who successfully complete treatment programs
+- Increase in offenders with downward departure sentences who successfully complete probation
+- Increase in medium-/high-risk offenders who successfully complete probation
+- Increase in medium-/high-risk offenders who are living in stable housing
+- Increase in medium-/high-risk offenders who are employed
+- Increase in medium-/high-risk offenders who successfully complete treatment programs
 
 #### CRITICAL SUCCESS FACTORS
 

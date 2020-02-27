@@ -29,10 +29,10 @@ Columbia County’s Justice Reinvestment Program (CCJRP) is designed to be an ev
 
 #### BASED ON RESEARCH
 
-   - Use of validated risk assessment tool
-   - Address specific criminogenic needs
-   - Use of positive reinforcements and incentives
-   - Use of cognitive behavioral treatments
+- Use of validated risk assessment tool
+- Address specific criminogenic needs
+- Use of positive reinforcements and incentives
+- Use of cognitive behavioral treatments
 
 #### FUNDING
 
@@ -44,7 +44,7 @@ This program is funded by a $385,892 grant through the 2015-17 Justice Reinvestm
 
 Proposed outcomes include:
 
-   - Reduce recidivism for medium and high risk offenders
-   - Increase referrals to evidence-based programming
-   - Decrease recommendations for jail and prison sentences
-   - Increase accepted applicants for Short Term Transitional Leave
+- Reduce recidivism for medium and high risk offenders
+- Increase referrals to evidence-based programming
+- Decrease recommendations for jail and prison sentences
+- Increase accepted applicants for Short Term Transitional Leave

@@ -31,7 +31,7 @@ Crisis Intervention Team Center of Excellence (CITCOE) provides structure, suppo
 
 #### BASED ON RESEARCH
 
-The [“Memphis Model”](www.cit.memphis.edu) of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness. 
+The [“Memphis Model”](www.cit.memphis.edu) of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness.
 
 #### FUNDING
 

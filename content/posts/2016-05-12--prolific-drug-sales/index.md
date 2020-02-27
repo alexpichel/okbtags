@@ -48,4 +48,3 @@ When dealing with drug houses, creativity is highly recommended. In this case, t
 #### LESSONS LEARNED
 
 Although drug houses beget volumes of complaints and measurably diminish livability in neighboring areas, the typical criminal justice process (arrest and sentencing) may not resolve the issue, so repeat offenders are common. In this case, the department initially served a search warrant and arrested the dealer only to have her return to the home almost immediately and resume drug sales. With similar cases in the future, the police department will try to work with legal staff—and/or other applicable resources and identified partners— to develop a plan that coordinates a resolution of these problems.
-
