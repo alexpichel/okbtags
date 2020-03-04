@@ -50,7 +50,6 @@ There was a low level of participation for the follow-up surveys, which could ha
 
 During the follow-up surveys, managers noted that calling the police to assist them with something could be counted against them as it related to permits. Researchers noted this could have led to a reduction in CFS counts.
 
-
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 #### RESEARCH FINDINGS

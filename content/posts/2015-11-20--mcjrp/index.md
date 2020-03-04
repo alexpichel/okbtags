@@ -46,25 +46,25 @@ Multnomah County’s MCJRP program is using funds to increase its capacity to do
 #### FUNDING
 
 - This program funds numerous personnel and contractors with its $7,058,327 budget.
-   - 4 FTE Parole/Probation Officers
-   - 1.3 FTE Escort deputies
-   - 1.0 FTE Enforcement Deputy
-   - 1.0 FTE Program Coordinator
-   - 1.0 FTE Project Manager
-   - 1.0 FTE Supervisor
-   - 1.0 FTE Program Administrator
-   - .50 FTE Legal Assistant
+  - 4 FTE Parole/Probation Officers
+  - 1.3 FTE Escort deputies
+  - 1.0 FTE Enforcement Deputy
+  - 1.0 FTE Program Coordinator
+  - 1.0 FTE Project Manager
+  - 1.0 FTE Supervisor
+  - 1.0 FTE Program Administrator
+  - .50 FTE Legal Assistant
 
 - Contractual Services
-   - Substance Use Disorder treatment
-   - Housing and Mentorship
-   - Mental Health Evaluation
-   - Employment Services
-   - Parent Education
-   - Circuit Court
-   - Public Defender
-   - Law Enforcement Services
-   - Treatment-Readiness In-custody
+  - Substance Use Disorder treatment
+  - Housing and Mentorship
+  - Mental Health Evaluation
+  - Employment Services
+  - Parent Education
+  - Circuit Court
+  - Public Defender
+  - Law Enforcement Services
+  - Treatment-Readiness In-custody
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 

@@ -35,7 +35,7 @@ The goal of this program is to divert persons with underlying mental health issu
 
 #### BASED ON RESEARCH
 
-LEAD is based on Seattle’s Law Enforcement Assisted Diversion Program for people arrested on narcotics and prostitution charges. 
+LEAD is based on Seattle’s Law Enforcement Assisted Diversion Program for people arrested on narcotics and prostitution charges.
 
 [King County LEADS Program](http://leadkingcounty.org/)
 
@@ -61,4 +61,4 @@ Start early recruiting the essential partners, especially behavioral health serv
 
 #### ADDITIONAL DOCUMENTS
 
-[LEADS Agreement Form](lead-agreement-form-final.pdf)
+[LEADS Agreement Form](./lead-agreement-form-final.pdf)

@@ -57,4 +57,4 @@ Giving an on-site demo of what your area could look like with proper lighting ha
 
 #### ADDITIONAL DOCUMENTS
 
-* [Dave Clark Trail Photos](./Dave-clark-trail-photos.pdf)
+- [Dave Clark Trail Photos](./Dave-clark-trail-photos.pdf)

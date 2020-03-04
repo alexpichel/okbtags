@@ -23,6 +23,7 @@ LAPD launched an initiative, the Safer Cities Initiative (SCI) to combat crime i
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
 #### PRIMARY RESEARCH QUESTION(S)
+
 1. Will a reduction in the concentration of homeless individuals lead to a reduction in nuisance crimes?
 2. Will a reduction occur for other types of crimes, such as violent and property?
 3. Will the crimes be displaced into adjoining precincts?

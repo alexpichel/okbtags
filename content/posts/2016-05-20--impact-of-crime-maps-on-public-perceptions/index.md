@@ -25,6 +25,7 @@ Do crime maps (e.g., dot maps, density maps) produce less fear of crime, greater
 #### RESEARCH DESIGN
 
 Violent crime data for Portland were used to create dot and density maps for a police precinct in a fictitious city. Participants were then recruited from Portland State University students (N = 161) and a Community List-serve maintained by the Office of Neighborhood Involvement (112). Each participant was randomly assigned to one of the following six conditions:
+
 1. low crime – aggregate count map
 2. high crime – aggregate count map
 3. low crime – dot map

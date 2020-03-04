@@ -46,7 +46,7 @@ If the site is near a school, the following activities can also help get communi
 * Consider scheduling a show-and-tell day for kids to see equipment. (This may require volunteers from the community.)
 * Consider providing jobsite tours.
 * Organize a school event when construction workers can talk with kids.
-*  Develop special instructions regarding construction trucks for crosswalk workers.
+* Develop special instructions regarding construction trucks for crosswalk workers.
 * Plan an open house for the neighborhood.
 
 #### FUNDING

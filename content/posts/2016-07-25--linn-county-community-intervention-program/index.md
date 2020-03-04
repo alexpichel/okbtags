@@ -52,11 +52,11 @@ The CIP relies heavily on these evidence-based practices:
 * Matrix Model
 * South Oaks Gambling Screen
 * Cognitive Behavioral Coping Skills Therapy
-*  Seeking Safety
+* Seeking Safety
 * Contingency Management Model
 * Nurturing Parenting for Parents in Addiction Recovery
 * Acceptance and Commitment Therapy
-*  Dialectical Behavioral Therapy
+* Dialectical Behavioral Therapy
 
 #### FUNDING
 

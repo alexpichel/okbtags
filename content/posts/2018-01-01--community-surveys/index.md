@@ -13,7 +13,6 @@ This request was made with the focus on using victim surveys as a tool to improv
 There are a number of articles and guidebooks available to agencies regarding the design and implementation of community surveys. These resources are listed below, including a few summaries. Any articles that are publicly available are hyperlinked in the citation.
 For the purposes of this request, the Crime Victimization Survey (CVS) and the Community Survey conducted in Bend, Oregon are probably the most useful examples of examining community perceptions of how police are doing at their job. Contact information for the primary investigators on these surveys can be found via the hyperlinks below.
 
-
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Resources
 
 #### ARTICLES AND REPORTS
@@ -42,8 +41,6 @@ This article demonstrates that the lower the officer perceives community satisfa
 
 [IACP Guide for Public Safety Surveys for Smaller Law Enforcement Agencies](http://www.theiacp.org/International-and-Community-Surveys)
 
-
 [Parkrose Initiative](/parkrose-initiative)
 
 [Public Contact With and Perceptions Regarding Police in Portland Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/PSU_PPB%20Contact%20Survey%20Results_2013_full%20report.pdf)
-

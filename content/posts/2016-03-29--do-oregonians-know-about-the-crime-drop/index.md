@@ -35,6 +35,7 @@ Racial and ethnic minorities were oversampled to obtain more reliable results fr
 #### LIMITATIONS
 
 The error attributed to sampling that would be expected at the 95% level of confidence for the sample as a whole is plus or minus 2.47 percentage points.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 #### RESEARCH FINDINGS
