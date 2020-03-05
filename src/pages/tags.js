@@ -62,6 +62,7 @@ TagsPage.propTypes = {
 
 export default TagsPage;
 
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query TagsQuery {
     site {
