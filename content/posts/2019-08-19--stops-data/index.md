@@ -3,7 +3,6 @@ title: "Analytical approaches to studying stops data"
 date: "2019-08-19"
 cover: /assets/research.png
 logo: /assets/research.png
-agencyid: "cjc"
 agency: "Criminal Justice Commission"
 category: "Research"
 tags: [Oregon Research, Race, Traffic Safety, Crime Analysis]
