@@ -3,7 +3,6 @@ title: "Research on Body-worn Cameras"
 date: "2019-02-01"
 cover: /assets/research.png
 logo: /assets/research.png
-agencyid: "gmu"
 agency: "George Mason University - 2019"
 category: "Research"
 tags: [Technology]
