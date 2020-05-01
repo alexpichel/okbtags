@@ -137,7 +137,7 @@ While adoption of the BWCs made be “a marker of a responsive, transparent, and
 
 #### ADDITIONAL RESOURCES
 
-[Accountability and BWC](content/posts/2018-01-01--Accountability-and-BWC/index.md)
+[Accountability and BWC]
 
 [Police Foundation's *Quantifying and Justifying the Cost of Body-worn Cameras*](https://www.policefoundation.org/quantifying-justifying-cost-of-body-worn-cameras/)
 
