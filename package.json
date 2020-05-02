@@ -32,7 +32,7 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.3",
     "sharp-cli": "^1.7.0",
-    "webpack-bundle-analyzer": "^2.13.1"
+    "webpack-bundle-analyzer": "^3.3.2"
   },
   "dependencies": {
     "@material-ui/core": "^1.5.1",
